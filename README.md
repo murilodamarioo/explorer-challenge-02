@@ -7,4 +7,4 @@ o que foi ensinado até agora na trilha Explorer da Rocketseat.
 
 # 🚀 Resultado final
 
-![desafio](https://i.imgur.com/G42OZlB.png)
+![desafio](https://i.imgur.com/8NxDx7s.png)
