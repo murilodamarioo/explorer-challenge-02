@@ -4,7 +4,6 @@ Nesse desafio, foi proposto recriar uma aplicação, a partir de um layout, para
 o que foi ensinado até agora na trilha Explorer da Rocketseat.
 
 <br>
-<br>
 
 # 🚀 Resultado final
 
